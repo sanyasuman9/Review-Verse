@@ -21,7 +21,6 @@ Click the link below to explore the complete Figma UI/UX design:
 🔗 Prototype: https://www.figma.com/proto/YvYJVQKPsaHlPXp5oM9qHy/reviewverse?page-id=0%3A1&node-id=4-2&p=f&viewport=24%2C279%2C0.21&t=2P45aZLDmcrukp7M-1&scaling=scale-down&content-scaling=fixed
 
 ---
-
 ## 📁 Ui/Ux Includes
 
 - 🧩 High-fidelity mockups (Home, Review Page, Login/Signup, etc.)
